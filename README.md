@@ -1,5 +1,9 @@
 # Air_Quality_Plateform
-# une plateforme web de mesure de la qualité de l’air liée à la mobilité urbaine.
+# une plateforme web de mesure de la qualité de l’air liée à la mobilité urbaine
+
+<video controls>
+  <source src="QAIR.mp4" type="video/mp4">
+</video>
 
 
 - Collecte via une base données de la data issue d’organes de mesure (capteurs et stations de mesure de      la Qualité de l’air).
